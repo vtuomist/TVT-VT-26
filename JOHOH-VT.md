@@ -9,7 +9,7 @@ Kurssin tehtäviä, vastauksia ja kuvia.
 
 <details>
   
-<summary> Viikkotehtävät 1 tulostus, matematiikka </summary>
+<summary> Viikkotehtävät 1: Tulostus ja matematiikka </summary>
   
 <p>
 
