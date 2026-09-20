@@ -267,11 +267,6 @@ Kun tehtävästä sai yhden osuuden tehtyä se oli helppo kopioida ja muuttaa va
 
 </details>
 
-<br><br>
-
-
-
-
 
 <details>
   
