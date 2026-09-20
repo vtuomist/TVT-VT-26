@@ -23,7 +23,7 @@ Kurssin tehtäviä, vastauksia ja kuvia.
 
 <details>
   
-<summary> Toteutus </summary>
+<summary> Toteutus ja koodi </summary>
   
 <p>
 
